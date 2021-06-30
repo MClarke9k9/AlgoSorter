@@ -226,7 +226,7 @@ class App extends React.Component {
             onChange={this.changeDelay}
           />
         </section>
-        <h3 className="name">Made by Mark Clarke</h3>
+        <h3 className="name">Created by &copy; Mark Clarke</h3>
       </div>
     )
   }
