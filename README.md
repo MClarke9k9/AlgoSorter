@@ -2,7 +2,7 @@
 
 ## This Application showcases my front-end development skills & my understanding of Sorting Algorithms.
 
-### Tech used to Build this projects
+### Tech used to Build this projects:
 
         ReactJS
         CSS
