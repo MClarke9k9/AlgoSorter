@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlgoSorter/static/css/main.e1448312.chunk.css",
+    "main.js": "/AlgoSorter/static/js/main.b9b5ae40.chunk.js",
+    "main.js.map": "/AlgoSorter/static/js/main.b9b5ae40.chunk.js.map",
+    "runtime-main.js": "/AlgoSorter/static/js/runtime-main.f8d38cbb.js",
+    "runtime-main.js.map": "/AlgoSorter/static/js/runtime-main.f8d38cbb.js.map",
+    "static/js/2.fb817480.chunk.js": "/AlgoSorter/static/js/2.fb817480.chunk.js",
+    "static/js/2.fb817480.chunk.js.map": "/AlgoSorter/static/js/2.fb817480.chunk.js.map",
+    "index.html": "/AlgoSorter/index.html",
+    "static/css/main.e1448312.chunk.css.map": "/AlgoSorter/static/css/main.e1448312.chunk.css.map",
+    "static/js/2.fb817480.chunk.js.LICENSE.txt": "/AlgoSorter/static/js/2.fb817480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d38cbb.js",
+    "static/js/2.fb817480.chunk.js",
+    "static/css/main.e1448312.chunk.css",
+    "static/js/main.b9b5ae40.chunk.js"
+  ]
+}
